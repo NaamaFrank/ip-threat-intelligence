@@ -23,8 +23,7 @@ A modern web application for analyzing IP addresses using multiple threat intell
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd checkpoint
+git clone https://github.com/NaamaFrank/ip-threat-intelligence.git
 
 # Install server dependencies
 cd server
